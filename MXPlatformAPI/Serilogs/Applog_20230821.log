@@ -1,0 +1,14 @@
+2023-08-21T18:17:50.5583066+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:7204"
+2023-08-21T18:17:50.5945832+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5167"
+2023-08-21T18:17:50.5985966+05:30 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2023-08-21T18:17:50.5990759+05:30 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2023-08-21T18:17:50.5991196+05:30 [INF] (Microsoft.Hosting.Lifetime) Content root path: "C:\Code\MXPlatformAPI\MXPlatformAPI\"
+2023-08-21T18:17:59.4980124+05:30 [FTL] (MXPlatformAPI.Controllers.AccountController) Account Data list not found!
+2023-08-21T18:18:35.3974669+05:30 [FTL] (MXPlatformAPI.Controllers.AccountController) Account Data list not found!
+2023-08-21T18:19:11.7158331+05:30 [FTL] (MXPlatformAPI.Controllers.AccountController) Account Data list not found!
+2023-08-21T18:20:32.9650387+05:30 [FTL] (MXPlatformAPI.Controllers.AccountController) Account Data list not found!
+2023-08-21T18:22:29.4668779+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:7204"
+2023-08-21T18:22:29.5008414+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5167"
+2023-08-21T18:22:29.5071708+05:30 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2023-08-21T18:22:29.5085534+05:30 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2023-08-21T18:22:29.5086898+05:30 [INF] (Microsoft.Hosting.Lifetime) Content root path: "C:\Code\MXPlatformAPI\MXPlatformAPI\"
