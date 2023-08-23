@@ -1,0 +1,30 @@
+2023-08-23T10:44:21.1922341+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:7204"
+2023-08-23T10:44:21.2311052+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5167"
+2023-08-23T10:44:21.2350295+05:30 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2023-08-23T10:44:21.2354926+05:30 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2023-08-23T10:44:21.2355369+05:30 [INF] (Microsoft.Hosting.Lifetime) Content root path: "C:\Code\MXPlatformAPI\MXPlatformAPI\"
+2023-08-23T10:44:44.5612088+05:30 [INF] (MXPlatformAPI.Controllers.UserController) User list found successfully.
+2023-08-23T10:50:43.4396378+05:30 [INF] (MXPlatformAPI.Controllers.UserController) User created successfully.
+2023-08-23T10:51:35.6421219+05:30 [INF] (MXPlatformAPI.Controllers.UserController) User list found successfully.
+2023-08-23T10:56:47.7550551+05:30 [INF] (MXPlatformAPI.Controllers.InstitutionController) Institution list found successfully.
+2023-08-23T10:59:11.8909937+05:30 [INF] (MXPlatformAPI.Controllers.InstitutionController) User created successfully.
+2023-08-23T11:25:37.6106264+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:7204"
+2023-08-23T11:25:37.6364330+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5167"
+2023-08-23T11:25:37.6405540+05:30 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2023-08-23T11:25:37.6410308+05:30 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2023-08-23T11:25:37.6410683+05:30 [INF] (Microsoft.Hosting.Lifetime) Content root path: "C:\Code\MXPlatformAPI\MXPlatformAPI\"
+2023-08-23T11:26:13.1649694+05:30 [INF] (MXPlatformAPI.Controllers.InstitutionController) User created successfully.
+2023-08-23T16:58:00.1662207+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:7204"
+2023-08-23T16:58:00.1924773+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5167"
+2023-08-23T16:58:00.1978493+05:30 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2023-08-23T16:58:00.1983610+05:30 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2023-08-23T16:58:00.1984101+05:30 [INF] (Microsoft.Hosting.Lifetime) Content root path: "C:\Code\MXPlatformAPI\MXPlatformAPI\"
+2023-08-23T16:58:22.2621718+05:30 [INF] (MXPlatformAPI.Controllers.AccountController) Account Data found successfully.
+2023-08-23T16:59:09.5555466+05:30 [FTL] (MXPlatformAPI.Controllers.InstitutionController) Institution credential not found.!
+2023-08-23T16:59:21.0016513+05:30 [INF] (MXPlatformAPI.Controllers.InstitutionController) Institution credential found.
+2023-08-23T17:09:36.2467014+05:30 [INF] (MXPlatformAPI.Controllers.MemberController) Member created successfully.
+2023-08-23T17:43:57.3504439+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:7204"
+2023-08-23T17:43:57.3902556+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5167"
+2023-08-23T17:43:57.3966380+05:30 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2023-08-23T17:43:57.3974492+05:30 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2023-08-23T17:43:57.3975261+05:30 [INF] (Microsoft.Hosting.Lifetime) Content root path: "C:\Code\MXPlatformAPI\MXPlatformAPI\"
