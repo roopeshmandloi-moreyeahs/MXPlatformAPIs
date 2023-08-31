@@ -1,0 +1,6 @@
+2023-08-24T11:37:20.0078836+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:7204"
+2023-08-24T11:37:20.0364380+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5167"
+2023-08-24T11:37:20.0404771+05:30 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2023-08-24T11:37:20.0409463+05:30 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2023-08-24T11:37:20.0409967+05:30 [INF] (Microsoft.Hosting.Lifetime) Content root path: "C:\Code\MXPlatformAPI\MXPlatformAPI\"
+2023-08-24T11:38:34.5785500+05:30 [INF] (MXPlatformAPI.Controllers.AccountController) Account Data found successfully.

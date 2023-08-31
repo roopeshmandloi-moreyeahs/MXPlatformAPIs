@@ -1,0 +1,11 @@
+2023-08-29T16:48:54.8531399+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:7204"
+2023-08-29T16:48:54.8846321+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5167"
+2023-08-29T16:48:54.8895702+05:30 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2023-08-29T16:48:54.8900767+05:30 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2023-08-29T16:48:54.8901336+05:30 [INF] (Microsoft.Hosting.Lifetime) Content root path: "C:\Code\MXPlatformAPI\MXPlatformAPI\"
+2023-08-29T16:49:12.1963603+05:30 [FTL] (MXPlatformAPI.Controllers.InstitutionController) Institution list not found!
+2023-08-29T18:37:24.9843251+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:7204"
+2023-08-29T18:37:25.0491135+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5167"
+2023-08-29T18:37:25.0592978+05:30 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2023-08-29T18:37:25.0608431+05:30 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2023-08-29T18:37:25.0609617+05:30 [INF] (Microsoft.Hosting.Lifetime) Content root path: "C:\Code\MXPlatformAPI\MXPlatformAPI\"
