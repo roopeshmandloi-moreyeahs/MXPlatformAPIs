@@ -1,0 +1,7 @@
+2023-09-01T00:29:41.9732793+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:7204"
+2023-09-01T00:29:42.0220307+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5167"
+2023-09-01T00:29:42.0278456+05:30 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2023-09-01T00:29:42.0285239+05:30 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2023-09-01T00:29:42.0285871+05:30 [INF] (Microsoft.Hosting.Lifetime) Content root path: "C:\Code\MXPlatformAPI\MXPlatformAPI\"
+2023-09-01T00:30:01.3999643+05:30 [INF] (MXPlatformAPI.Controllers.MemberController) Member list found successfully.
+2023-09-01T00:30:45.1628356+05:30 [INF] (MXPlatformAPI.Controllers.MemberController) Member status found successfully.
