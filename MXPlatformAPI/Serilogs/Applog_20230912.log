@@ -1,0 +1,8 @@
+2023-09-12T10:39:21.0185882+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:7204"
+2023-09-12T10:39:21.0463644+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5167"
+2023-09-12T10:39:21.0509499+05:30 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2023-09-12T10:39:21.0516875+05:30 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2023-09-12T10:39:21.0517908+05:30 [INF] (Microsoft.Hosting.Lifetime) Content root path: "C:\Code\MXPlatformAPI_Revised\MXPlatformAPI\"
+2023-09-12T10:39:41.9275311+05:30 [INF] (MXPlatformAPI.Controllers.UserController) User list found successfully.
+2023-09-12T10:43:05.8759768+05:30 [FTL] (MXPlatformAPI.Controllers.TransactionController) Transaction Data not found!
+2023-09-12T10:43:30.2603986+05:30 [INF] (MXPlatformAPI.Controllers.TransactionController) Transaction Data found successfully.
