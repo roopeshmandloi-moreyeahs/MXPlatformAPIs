@@ -1,0 +1,23 @@
+2023-09-07 00:42:20 [FTL] (MXPlatformAPI.Controllers.TransactionController) Transaction Data not found!
+2023-09-07 11:30:18 [FTL] (MXPlatformAPI.Controllers.TransactionController) Transaction Data not found!
+2023-09-07 11:39:51 [FTL] (MXPlatformAPI.Controllers.TransactionController) Transaction Data not found!
+2023-09-07 11:54:57 [FTL] (MXPlatformAPI.Controllers.TransactionController) Transaction Data not found!
+2023-09-07 13:29:43 [FTL] (MXPlatformAPI.Controllers.TransactionController) Transaction Data not found!
+2023-09-07 14:40:34 [FTL] (MXPlatformAPI.Controllers.TransactionController) Transaction Data not found!
+2023-09-07 14:41:52 [FTL] (MXPlatformAPI.Controllers.TransactionController) Transaction Data not found!
+2023-09-07 14:49:54 [FTL] (MXPlatformAPI.Controllers.TransactionController) Transaction Data not found!
+2023-09-07 19:11:53 [FTL] (MXPlatformAPI.Controllers.TransactionController) Transaction Data not found!
+2023-09-07 19:19:37 [FTL] (MXPlatformAPI.Controllers.TransactionController) Transaction Data not found!
+2023-09-07 19:22:05 [FTL] (MXPlatformAPI.Controllers.TransactionController) Transaction Data not found!
+2023-09-07 19:39:34 [FTL] (MXPlatformAPI.Controllers.TransactionController) Transaction Data not found!
+2023-09-07 19:40:51 [FTL] (MXPlatformAPI.Controllers.TransactionController) Transaction Data not found!
+2023-09-07 19:48:39 [FTL] (MXPlatformAPI.Controllers.TransactionController) Transaction Data not found!
+2023-09-07 19:50:09 [ERR] (Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware) An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET GetAggregatedDataByUserGuid" for actions - MXPlatformAPI.Controllers.TransactionController.GetAggregatedDataByUserGuid (MXPlatformAPI),MXPlatformAPI.Controllers.TransactionController.GetAggregatedDataByUserGuid (MXPlatformAPI). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-09-07 19:51:51 [FTL] (MXPlatformAPI.Controllers.TransactionController) Transaction Data not found!

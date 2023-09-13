@@ -1,0 +1,6 @@
+2023-09-11 18:41:25 [ERR] (MXPlatformAPI.Controllers.TransactionController) LoggingAt:09/11/2023 18:41:25 RequestIdentifier:"transaction data" Exception:"System.NullReferenceException: Object reference not set to an instance of an object.
+   at MXPlatformAPI.Controllers.TransactionController.GetAggregatedDataByUserGuid(String userGuid) in C:\Code\MXPlatformAPI_Revised\MXPlatformAPI\Controllers\TransactionController.cs:line 263"
+2023-09-11 18:42:40 [ERR] (MXPlatformAPI.Controllers.TransactionController) LoggingAt:09/11/2023 18:42:40 RequestIdentifier:"transaction data" Exception:"System.NullReferenceException: Object reference not set to an instance of an object.
+   at MXPlatformAPI.Controllers.TransactionController.GetAggregatedDataByUserGuid(String userGuid)"
+2023-09-11 18:42:58 [FTL] (MXPlatformAPI.Controllers.TransactionController) Transaction Data not found!
+2023-09-11 18:57:59 [FTL] (MXPlatformAPI.Controllers.TransactionController) Transaction Data not found!
